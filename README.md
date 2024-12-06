@@ -17,9 +17,12 @@
 
 🗺 Información adicional:
 
-✈ Cuento con disponibilidad para reubicarme ya sea dentro de México o cualquier parte del mundo. 
-
+✈ Cuento con disponibilidad para trabajar en remoto y reubicarme en Santiago de Chile. 
+______________________________________________________________________________________________________________
 
 ## Proyectos seleccionados
-### 
+______________________________________
+### Dashboard de OEE y cuadro de perdida de tiempos.
+- Este proyecto se conforma
+<img src="https://camo.githubusercontent.com/629c100550014b368c11d9d443b96cb5ef0130d1a8a520082fca4cac81809e3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696d7069657a615f64655f6461746f732d3239354639383f7374796c653d666f722d7468652d6261646765" alt="Limpieza de datos" data-canonical-src="https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/629c100550014b368c11d9d443b96cb5ef0130d1a8a520082fca4cac81809e3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696d7069657a615f64655f6461746f732d3239354639383f7374796c653d666f722d7468652d6261646765" alt="PowerQuery" data-canonical-src="https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge" style="max-width: 100%;">
 - 
