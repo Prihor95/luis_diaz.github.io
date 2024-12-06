@@ -2,4 +2,4 @@ tittle: Luis Enrique Diaz Rojas
 logo: /assets/img/headshot_circle.png
 description: Data Analyst
 show_downloads: False
-theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
