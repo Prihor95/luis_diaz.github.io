@@ -24,6 +24,6 @@ ________________________________________________________________________________
 ______________________________________
 ### Dashboard de OEE y cuadro de perdida de tiempos.
 - Este proyecto se conforma
-<img alt="Powerquery" data-canonical-src="https://img.shields.io/badge/PowerQuery-yellow?color=yellow" style="max-width: 100%;">
-<img alt="Power_query" src="https://img.shields.io/badge/PowerQuery-yellow?color=yellow" style="max-width: 100%;">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/PowerQuery-yellow?style=flat&logoSize=auto&color=yellow" style="max-width: 100%;">
 
