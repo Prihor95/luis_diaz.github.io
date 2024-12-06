@@ -21,9 +21,13 @@
 ______________________________________________________________________________________________________________
 
 ## Proyectos seleccionados
-______________________________________
-### Dashboard de OEE y cuadro de perdida de tiempos.
-- Este proyecto se conforma
 
-<img alt="Static Badge" src="https://img.shields.io/badge/PowerQuery-yellow?style=flat&logoSize=auto&color=yellow" style="max-width: 100%;">
+### Dashboard de OEE y cuadro de perdida de tiempos.
+- El objetivo de este proyecto fue realizar un 
+### Herramientas
+<img alt="excel" src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logoSize=auto&color=darkgreen"> <img alt="Power Bi" src="https://img.shields.io/badge/Power%20Bi-yellow?style=for-the-badge&logoSize=auto&labelColor=black&color=yellow">
+<img alt="power_query" src="https://img.shields.io/badge/PowerQuery-yellow?style=for-the-badge&logoSize=auto&color=yellow"> <img alt="Transformación de datos" src="https://img.shields.io/badge/Transformaci%C3%B3n%20de%20datos-black?style=for-the-badge&logoSize=auto&color=blue"> <img alt="Visualización de datos" src="https://img.shields.io/badge/Visualizaci%C3%B3n%20de%20datos-black?style=for-the-badge&logoSize=auto&color=blue">
+
+
+
 
