@@ -1,4 +1,4 @@
-### Data Analyst
+# Data Analyst
 
 ## Acerca de mí
 👨‍💻 Soy ingeniero industrial con experiencia en mejora continua, análisis estadístico y programación en Python. Tengo sólidos conocimientos en metodologías como Six Sigma y mejora de procesos. He implementado KPI’s y dashboards que facilitan la toma de decisiones y la detección de causas raíz o tendencias, utilizando herramientas como Power BI y Excel. Mi enfoque en liderazgo, trabajo en equipo y comunicación efectiva ha sido clave para el éxito de estos proyectos.
