@@ -111,6 +111,7 @@ Propuestas:
 - Campañas de marketing por telefono: El 90% de los usuarios proporcionaron su número para contacto, conviritiendose en un excelente canal de comunicación.
 - Realizar una prueba A/B con una campaña personalizada para usuarios de 25 a 30 años con promoción en horarios con menos flujo para incrementar la retención y el uso de las instalaciones.
 - Fomentar las actividades grupales en los usuarios más jovenes ya que los usuarios que participan en estas actividades suelen renovar su suscripción.
+[Ver mas acerca del proyecto...](https://github.com/Prihor95/gym_machine_learning)
 
 ## Telecom_operator_performance
 
@@ -173,6 +174,6 @@ Otras recomendaciones serian:
 - Aumentar la capacitación, si bien nuestro grupo de operadores ineficientes es de 56 operadores, la población de operadores regulares supera por mucho a la de eficientes. por lo que requieren atención.  
 - Establecer los objetivos conforme a la medias obtenidas con estos indicadores para que los operadores intenten llegar a estos números y así puedan mejorar.
 
-
+[Ver más acerca del proyecto](https://github.com/Prihor95/Telecom_operator_performance/tree/main)
 
 
